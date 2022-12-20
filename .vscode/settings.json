@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cctype": "cpp",
+        "__locale": "cpp"
+    }
+}
